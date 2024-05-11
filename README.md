@@ -36,6 +36,7 @@ Our vision for AI Doctor is to create a seamless and personalized healthcare exp
 - Image Recognition: In cases where visual inspection is necessary, the AI Doctor can capture and analyze images to identify potential health issues such as skin conditions or injuries.
 - Medical Knowledge Base: With a comprehensive database of medical information, the AI Doctor can provide accurate diagnosis and treatment recommendations for a wide range of health conditions.
 - Prescription Generation: Following the consultation, users receive personalized treatment plans and prescriptions in PDF format, including recommendations for further diagnostic tests if needed.
+  
 ### 🤝 Collaboration 🌟
 We are actively seeking collaboration opportunities with healthcare professionals, AI experts, and technology enthusiasts to further develop and refine the AI Doctor platform. Together, we can harness the power of AI to transform healthcare delivery and improve the lives of millions around the globe.
 
@@ -46,13 +47,13 @@ I prioritize results above all else. Even in unfamiliar tech stacks, my commitme
 
 Let's connect and turn your vision into reality!
 
- **📩 Email:** dhruvitrivedi602@gmail.com
+ 📩** Email:** dhruvitrivedi602@gmail.com
 
- [**🤝 Linkedin**](https://www.linkedin.com/in/dhruvi-trivedi-696ba2228/)
+ 🤝[** Linkedin**](https://www.linkedin.com/in/dhruvi-trivedi-696ba2228/)
 
- [**🤳 Instagram**](https://www.instagram.com/602_dhruviii)
+ 🤳[** Instagram**](https://www.instagram.com/602_dhruviii)
 
- [**🌐 X**](https://twitter.com/dhruvitriv63548)
+ 🌐[** X**](https://twitter.com/dhruvitriv63548)
 
 
 ---
