@@ -47,13 +47,13 @@ I prioritize results above all else. Even in unfamiliar tech stacks, my commitme
 
 Let's connect and turn your vision into reality!
 
- 📩** Email:** dhruvitrivedi602@gmail.com
+ 📩**Email:** dhruvitrivedi602@gmail.com
 
- 🤝[** Linkedin**](https://www.linkedin.com/in/dhruvi-trivedi-696ba2228/)
+ 🤝[**Linkedin**](https://www.linkedin.com/in/dhruvi-trivedi-696ba2228/)
 
- 🤳[** Instagram**](https://www.instagram.com/602_dhruviii)
+ 🤳[**Instagram**](https://www.instagram.com/602_dhruviii)
 
- 🌐[** X**](https://twitter.com/dhruvitriv63548)
+ 🌐[**X**](https://twitter.com/dhruvitriv63548)
 
 
 ---
